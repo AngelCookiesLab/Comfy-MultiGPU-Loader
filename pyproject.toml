@@ -1,6 +1,6 @@
 [project]
 name = "comfy-multigpu-loader"
-version = "0.1.3"
+version = "0.1.4"
 description = "ComfyUI custom nodes for sharding SD/SDXL/Flux checkpoints across multiple GPUs."
 readme = "README.md"
 license = { file = "LICENSE" }
