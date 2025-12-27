@@ -1,6 +1,3 @@
-# Roadmap
+# Roadmap (frozen)
 
-- Fix outstanding bugs and logging/diagnostic accuracy.
-- Expand support to more default ComfyUI nodes.
-- Explore video creation pipelines.
-- Harden logging/diagnostics and add more runtime telemetry.
+This project is in sunset/maintenance mode. No new roadmap items are planned here; future feature work will continue in the upcoming ComfyUI-inspired project. Bug fixes may still be backported if needed.

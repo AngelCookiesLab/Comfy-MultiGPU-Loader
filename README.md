@@ -1,6 +1,9 @@
 ## Comfy MultiGPU Loader
 A set of ComfyUI nodes that shard SD/SDXL/Flux-style checkpoints across multiple GPUs using custom forwards.
 
+### Project status
+Sunset / “as-is”. No active support or new features. Kept for reference; a future ComfyUI-inspired project will carry new work. Use at your own risk.
+
 ### Solidarity
 We stand with Ukraine. #standwithukraine.
 
@@ -38,7 +41,7 @@ For heavy checkpoints (e.g., Flux Dev 2 FP32), run the `Hardware Validator (Mult
 - Future: video workflows and additional node support.
 
 ### Future updates
-See `ROADMAP.md` for planned work and `CHANGELOG.md` for release details.
+Roadmap is frozen while the project is sunset. See `CHANGELOG.md` for the last released updates; future work moves to the next ComfyUI-inspired project.
 
 See `NODES.md` for the current node list.
 

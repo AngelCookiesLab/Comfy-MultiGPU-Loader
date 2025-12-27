@@ -1,6 +1,6 @@
 [project]
 name = "comfy-multigpu-loader"
-version = "0.1.4"
+version = "0.1.6"
 description = "ComfyUI custom nodes for sharding SD/SDXL/Flux checkpoints across multiple GPUs."
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/AngelCookies/Comfy-MultiGPU-Loader"
+Repository = "https://github.com/AngelCookiesLab/Comfy-MultiGPU-Loader"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
